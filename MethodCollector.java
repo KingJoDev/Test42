@@ -28,4 +28,8 @@ public class MethodCollector {
         System.out.println("MethodCollector aSecondMethod: This method has been created     by heisob ");
     }
 
+    private static void aThirdMethod() {
+        System.out.println("MethodCollector aThirdMethod: This method has been created     by heisob ");
+    }
+
 }
